@@ -1,7 +1,7 @@
 {
-  "name": "rehype-unwrap-liquid",
+  "name": "remark-unwrap-liquid",
   "version": "4.0.0",
-  "description": "Simple rehype plugin that removes the enclosing `<p>` and `</p>` from lines that contain only a single liquid tag.",
+  "description": "Simple remark plugin that removes the enclosing `<p>` and `</p>` from lines that contain only a single liquid tag.",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
